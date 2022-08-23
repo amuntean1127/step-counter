@@ -52,3 +52,11 @@ button {
     border: 1px solid black;
     border-radius: 10px;
 }
+
+footer {
+    width: 70%;
+    margin: auto;
+    font-size: 10px;
+    font-weight: normal;
+    font-style: italic;
+}
