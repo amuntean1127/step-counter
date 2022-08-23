@@ -1,7 +1,7 @@
 # step-counter
 A very inefficient step counter. Nothing beats tapping your screen as fast as you are walking! https://amuntean1127.github.io/step-counter/
 
-#Thanks to scrimba.com for motivating me to finally put stuff on github :)
+Thanks scrimba.com for motivating me to finally put stuff on github :)
 
 # cMLr3asK
 
