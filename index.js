@@ -19,3 +19,11 @@ function save() {
     totalEl.innerText = "Total Steps: " + totalCount
 }
 
+function reset() {
+    count = 0
+    totalCount = 0
+    countEl.textContent = count
+    saveEl.textContent = "Today's walks: "
+    totalEl.innerText = "Total Steps: 0"
+}
+
